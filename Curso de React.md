@@ -36,3 +36,5 @@ ReactDOM.render(
 2. node -v
 3. npm install -g create-react-app
 4. create-react-app react-simples
+5. cd react-simples
+6. npm start
