@@ -28,8 +28,6 @@ ReactDOM.render(
 );
 ```
 
-
-
 # Iniciando um projeto
 
 1. npm -v
@@ -38,3 +36,10 @@ ReactDOM.render(
 4. create-react-app react-simples
 5. cd react-simples
 6. npm start
+
+
+
+# O que são Componentes?
+
+1. src/index.js é o arquivo principal da aplicação
+2. Componentes são pedaços isolados de lógica, estrutura e organização
