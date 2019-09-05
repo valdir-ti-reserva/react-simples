@@ -9,3 +9,9 @@
     justify-content: center;
     align-items: center;
 }
+
+#main-header a{
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
