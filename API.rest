@@ -1,0 +1,1 @@
+GET https://rocketseat-node.herokuapp.com/api/products

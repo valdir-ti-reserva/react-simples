@@ -113,3 +113,17 @@ body{
 
 
 
+# Buscando produtos da API
+
+1. npm install axios
+
+2. src/services/api.js
+
+   ```react
+   import axios from 'axios';
+   const api = axios.create({baseURL: 'https://rocketseat-node.herokuapp.com/api'});
+   export default api;
+   ```
+
+   3. Buscando os produtos na API
+   4. 

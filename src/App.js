@@ -1,11 +1,12 @@
 import React from 'react';
 
 import Header from './componentes/Header/index';
+import Main from './pages/main/index';
 
 const App = () => (
   <div className="App">
     <Header/>
-    <h3>Texto no Body</h3>
+    <Main/>
   </div>
 )
 
