@@ -2,7 +2,7 @@
 
 https://skylab.rocketseat.com.br/node/curso-react-js
 
-### O que é React?
+## O que é React?
 
 1. Biblioteca para trabalhar com o front-end da aplicação
 2. Organização dos diretórios
@@ -30,7 +30,7 @@ ReactDOM.render(
 );
 ```
 
-# Iniciando um projeto
+### Iniciando um projeto
 
 1. npm -v
 2. node -v
@@ -39,12 +39,12 @@ ReactDOM.render(
 5. cd react-simples
 6. npm start
 
-# O que são Componentes?
+## O que são Componentes?
 
 1. src/index.js é o arquivo principal da aplicação
 2. Componentes são pedaços isolados de lógica, estrutura e organização
 
-# Componente Header
+## Componente Header
 
 1. src/componentes/Header/index.js
 
@@ -111,9 +111,7 @@ body{
 }
 ```
 
-
-
-# Buscando produtos da API
+## Buscando produtos da API
 
 1. npm install axios
 
@@ -125,5 +123,22 @@ body{
    export default api;
    ```
 
-   3. Buscando os produtos na API
-   4. 
+   
+
+## Armazenando no estado
+
+
+
+## Listando os produtos
+
+
+
+## Paginação
+
+
+
+## Configurando a navegação
+
+
+
+## Navegando para o detalhe
